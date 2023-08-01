@@ -1,0 +1,2 @@
+# ConstraintLayoutSample3
+ダイアログフラグメントにBundleを使ってデータを渡す
